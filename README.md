@@ -8,7 +8,7 @@ This code goes along with the blog post [Building Micro Frontends with React, Vu
 1. Clone the repo
 
 ```sh
-git clone https://github.com/dabit3/micro-frontend-example.git
+https://github.com/eljahon/microFrontendVueAndReact
 ```
 
 2. Install dependencies
